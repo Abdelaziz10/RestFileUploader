@@ -1,4 +1,4 @@
-package com.upload;
+package com.restuploader;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
